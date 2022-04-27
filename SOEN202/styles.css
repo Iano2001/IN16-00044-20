@@ -1,0 +1,66 @@
+body{
+    background-image: url(mn.jpg);
+    background-size: cover;
+}
+
+H3{
+    color: darkorange;
+    font: size 30px; 
+    text-shadow: darkorchid;
+}
+table{
+    
+    background-color: darkcyan;
+    width: 80em;
+    height: 7em;
+}
+caption{
+    font-size: 40px;
+    color: darkred;
+    font-family: sans-serif;
+}
+.images img{
+width: 400px;
+height: 200px;
+}
+.table, .list{
+    font-family: sans-serif;
+}
+.form_area{
+    background-color: rgb(172, 171, 170);
+width:500px;
+margin: 10px;
+
+}
+.input_field{
+    width: 490px;
+    color: rgb(0, 0, 0);
+    background: #ffffff;
+    border: 1px solid;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+label{
+    font-family: sans-serif;
+}
+.required{
+    width: 490px;
+    height: 80px;
+    color: rgb(0, 0, 0);
+    background: #ffffff;
+    border: 1px solid;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+.submit_buton_s{
+    font-family: sans-serif;
+    width: 50px;
+}
+
+
+
+
+
+/*comment*/
